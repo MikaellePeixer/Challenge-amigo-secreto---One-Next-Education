@@ -1,6 +1,6 @@
 # Challenge amigo secreto - One Next Education
 
-![Capa do jogo](https://github.com/MikaellePeixer/Challenge-amigo-secreto---One-Next-Education/blob/06e692714dfc182cce87a6c4611e9e63225c235d/assets/FireShot%20Capture%20004%20-%20Amigo%20Secreto%20-%20sorteio-de-amigo-secreto.vercel.app.png)
+![Capa do jogo]([https://github.com/MikaellePeixer/Challenge-amigo-secreto---One-Next-Education/blob/06e692714dfc182cce87a6c4611e9e63225c235d/assets/FireShot%20Capture%20004%20-%20Amigo%20Secreto%20-%20sorteio-de-amigo-secreto.vercel.app.png](https://github.com/MikaellePeixer/Challenge-amigo-secreto---One-Next-Education/blob/main/assets/FireShot%20Capture%20004%20-%20Amigo%20Secreto%20-%20sorteio-de-amigo-secreto.vercel.app.png))
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 |        Projeto        |                                     Código                                       |                        Live Preview                        |
