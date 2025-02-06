@@ -1,6 +1,7 @@
 # Challenge amigo secreto - One Next Education
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Demonstração do Projeto](https://github.com/MikaellePeixer/Challenge-amigo-secreto---One-Next-Education/blob/main/assets/FireShot%20Capture%20004%20-%20Amigo%20Secreto%20-%20sorteio-de-amigo-secreto.vercel.app.png?raw=true)
 
 |        Projeto        |                                     Código                                       |                        Live Preview                        |
 :----------------------:| :-------------------------------------------------------------------------------:| :---------------------------------------------------------:|
@@ -9,7 +10,7 @@
 ## 🎉 Sobre o Projeto
 Este projeto faz parte de um desafio proposto pelo curso **Oracle Next Education (ONE)**, uma iniciativa da Oracle em parceria com a Alura, que visa capacitar novos talentos em tecnologia. O objetivo é criar uma aplicação web simples e funcional para realizar o sorteio de amigo secreto.
 
-Você pode acessar a aplicação diretamente por este [link](https://sorteio-de-amigo-secreto.vercel.app).
+Você pode acessar a aplicação diretamente por este [link](https://challenge-amigo-secreto-one-next-education.vercel.app/).
 
 ---
 
